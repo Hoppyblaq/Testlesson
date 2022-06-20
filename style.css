@@ -1,0 +1,53 @@
+*{
+    
+}
+      body{
+         background-color: black;
+     }
+     i{
+         color: white;
+        
+         margin-left: 30%;
+          
+     }
+    
+     .container1{
+         font-size: 30px;
+         display: flex;
+         margin-left: 60%;
+         
+     }
+     .yes{
+         background-color: black;
+          
+         color: white;
+          padding: 30px 30px 10px; 
+           width: 10%;
+          font-size: 28px;
+          height: 10vh;
+          text-align: center;
+         border-radius: 50%;
+         border: 1px solid white;
+    
+     }
+     .main{margin: 10%;}
+    .container2{
+        display: flex;    
+    }
+    .join{
+        /* text-align: left;
+        color: white;
+        font-size: 28px;
+        height: 30vh;
+        margin-bottom: 20px; */
+        color: white;
+    }    
+    .co{
+       color: white;
+       font-size: 50%;
+    }
+    p{
+      font-size: 20px;
+      color: white;  
+    }
+    
